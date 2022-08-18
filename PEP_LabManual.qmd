@@ -1,0 +1,118 @@
+---
+title: "PEP_LabManual"
+format: html
+editor: visual
+---
+
+# PEP Lab Manual
+
+## Welcome
+
+Welcome to the Polar Ecosystems Program (PEP; pronounced both as P-E-P and pep).
+
+## PEP Culture and Philosophy
+
+## Program Resources
+
+### Program Organization
+
+### People and Roles
+
+### How We Meet
+
+### How We Share Things
+
+### How We Give Feedback
+
+### How We Want Feedback
+
+## Onboarding
+
+As a way to engage new staff and to help keep this document current, part of onboarding will be the review of information within this manual. \[shamelessly stolen from how the Fay Lab operates...can take or leave this approach :) \]
+
+### AFSC Resources
+
+### Minimum Computer Requirements
+
+Below is a list of software required for PEP computers.
+
+| Program                       | Justification                                                                                                     |
+|-----------------|-------------------------------------------------------|
+| QGIS                          | For the most direct connection to PEP database for spatial data                                                   |
+| ArcGIS Pro                    | Some preference for Arc version?                                                                                  |
+| 64-bit PostgreSQL ODBC driver | For connecting to PEP database via Microsoft Access                                                               |
+| Microsoft Access 2016         | For using PEP database front-ends (this is part of the Microsoft Suite, so might already be installed by default) |
+| EndNote                       | For accessing the PEP library                                                                                     |
+| ACDSee                        | For image management (field photos and data); we also have licenses for Lightroom                                 |
+| VLC Media Player              | For video management                                                                                              |
+| Adobe Acrobat                 | For managing data and forms stored in pdf                                                                         |
+
+: Required software for PEP computers.
+
+Below is a list of software recommended for PEP computers.
+
+| Program                                   | Justification                                  |
+|--------------------------------|----------------------------------------|
+| Anaconda(or miniconda) with Python\>=3.6  | Lots of our tools require Python               |
+| R                                         | Lots of our tools require R (and kept updated) |
+| RStudio (no more than one release behind) | A user-friendly GUI for R                      |
+
+: Recommended software for PEP computers.
+
+## Expectations
+
+### Email
+
+### Attendance
+
+### PEP Dashboard
+
+The PEP Dashboard was developed to help facilitate documenting project details, personnel, and associated activities. The dashboard should be visited and updated by staff on at least **once per month**.
+
+It is responsibility of project leads to:
+
+-   
+
+It is the responsibility of project staff to:
+
+-   
+
+### Outreach
+
+## Offboarding
+
+### Exit Interview
+
+### Project Documentation
+
+### File Archive
+
+## Technology
+
+### Google Ecosystem
+
+We have a centralized Google Drive (tied to a generic email account) that serves as our program [Google Drive repository](https://drive.google.com/drive/folders/1XMadJkz4AqgHctLn0U2xnVChSjHxnyjb).
+
+### Network Resources
+
+We store our files in a variety of locations on the AFSC internal network:
+
+-   \\\\akc0ss-n086\\NMML_Polar
+
+-   \\\\akc0ss-n086\\NMML_Polar_Imagery
+
+-   \\\\akc0ss-n086\\NMML_Polar_Imagery_2
+
+-   \\\\akc0ss-n086\\NMML_Polar_Imagery_3
+
+-   \\\\akc0ss-n086\\NMML_CHESS_Imagery
+
+Other network resources that may be of interest:
+
+-   
+
+### Data Management
+
+Our PEP data management plan can be found [here](ADD%20LINK%20TO%20DATA%20MANAGEMENT%20PLAN).
+
+## Things We Wish We Knew...
