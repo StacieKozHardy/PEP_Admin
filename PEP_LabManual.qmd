@@ -18,6 +18,8 @@ Welcome to the Polar Ecosystems Program (PEP; pronounced both as P-E-P and pep).
 
 ### People and Roles
 
+* Stacie Hardy - program data scientist
+
 ### How We Meet
 
 ### How We Share Things
