@@ -8,7 +8,7 @@ editor: visual
 
 ## Welcome
 
-Welcome to the Polar Ecosystems Program (PEP; pronounced both as P-E-P and pep).
+Welcome to the Polar Ecosystems Program (PEP; pronounced both as P-E-P and pep). This is just a suggested start for our program. It currently contains bits of information that were within the PEP data management plan that did not feel best-suited for that document. Other categories are simply suggestions for information that *could* be included in a program lab manual, if we were to adopt one. 
 
 ## PEP Culture and Philosophy
 
@@ -17,8 +17,6 @@ Welcome to the Polar Ecosystems Program (PEP; pronounced both as P-E-P and pep).
 ### Program Organization
 
 ### People and Roles
-
-* Stacie Hardy - program data scientist
 
 ### How We Meet
 
@@ -73,11 +71,11 @@ The PEP Dashboard was developed to help facilitate documenting project details, 
 
 It is responsibility of project leads to:
 
--   
+-   Maintain project details, including information management, staff and roles, activities and timelines.
 
 It is the responsibility of project staff to:
 
--   
+-   Update the status of activities for which they are responsible.
 
 ### Outreach
 
